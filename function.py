@@ -14,6 +14,7 @@ get_data1()
 
 #Method_2
 print("Method 2 :")
+
 def get_data(name,age):
     print("enter Your name " + name)
     print("your age is " + str(age))
